@@ -1,0 +1,36 @@
+.plomo {
+	width:90px;
+	height:90px;
+	border: 1px solid black;
+	margin:10px;
+	background:grey;
+	display:block;
+}
+
+.contenedor {
+	width:350px;
+	height:120px;
+	border: 1px solid black;
+	margin:10px;
+	background:grey;
+	display:block;
+}
+
+#juntos {
+	display:inline-block;
+}
+
+div .plomo  {
+	display:inline-block;
+}
+
+.ultimo {
+	width:90px;
+	height:90px;
+	border: 1px solid black;
+	margin:10px;
+	background:grey;
+	display:block;
+}
+
+
